@@ -8,6 +8,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+
+import java.util.ArrayList;
+import java.util.Arrays;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -57,6 +62,27 @@ public class MainActivity extends ActionBarActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
+            String[] forecastArray = {
+                    "Today - Sunny - 88/64",
+                    "Tomorrow - Foggy - 70/40",
+                    "Weds - Cloudy - 72/63",
+                    "Thurs - Asteroids - 75/64",
+                    "Fri - Heavy rain - 38/22",
+                    "Sat - HELP TRAPPED IN WEATHER STATION - 60/41",
+                    "Sun - Sunny"
+            };
+            ArrayList<String> weekForecast = new ArrayList<String>(Arrays.asList(forecastArray));
+            //initialize the array adaptor to interpret the data from the forecastArray[]
+            //first param just gets the current activity
+            //second param retrieves the layout that the adaptor will use
+            //third param retrieves the id to put the data into
+            //fourth param is the data
+            ArrayAdapter<String> arrAdapter = new ArrayAdapter<String>(getActivity(),
+                    R.layout.list_item_forecast, R.id.list_item_forecast_textview, forecastArray);
+            //we must create the view so we can search for ids in the fragment_main.xml file
+            ListView v = (ListView) rootView.findViewById(R.id.listview_forecast);
+            v.setAdapter(arrAdapter);
+
             return rootView;
         }
     }
