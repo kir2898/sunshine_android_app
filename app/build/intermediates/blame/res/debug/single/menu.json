@@ -1,5 +1,9 @@
 [
     {
+        "merged": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forecastfragment.xml",
+        "source": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\menu\\forecastfragment.xml"
+    },
+    {
         "merged": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\menu\\main.xml"
     }
