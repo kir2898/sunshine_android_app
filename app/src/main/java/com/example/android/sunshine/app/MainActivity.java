@@ -1,5 +1,6 @@
 package com.example.android.sunshine.app;
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -24,6 +25,8 @@ import java.util.Arrays;
 
 public class MainActivity extends ActionBarActivity {
 
+    private static final String LOG_TAG = "main_activity";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,7 +41,7 @@ public class MainActivity extends ActionBarActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
+        //getMenuInflater().inflate(R.menu.forecastfragment, menu);
         return true;
     }
 
@@ -51,6 +54,8 @@ public class MainActivity extends ActionBarActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Log.v(LOG_TAG, "settings menu was selected in the main activity");
+            startActivity(new Intent(this, SettingsActivity.class));
             return true;
         }
 

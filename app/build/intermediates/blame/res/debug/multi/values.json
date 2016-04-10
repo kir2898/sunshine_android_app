@@ -1571,14 +1571,7 @@
                     "endOffset": 22040
                 },
                 "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 214,
-                        "endColumn": 50,
-                        "endOffset": 260
-                    }
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -1622,9 +1615,90 @@
                     "startLine": 159,
                     "startColumn": 4,
                     "startOffset": 22197,
-                    "endLine": 161,
+                    "endColumn": 55,
+                    "endOffset": 22248
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 55,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 22253,
+                    "endColumn": 54,
+                    "endOffset": 22303
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 54,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 22308,
+                    "endColumn": 56,
+                    "endOffset": 22360
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 56,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 22365,
+                    "endColumn": 64,
+                    "endOffset": 22425
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 22430,
+                    "endColumn": 60,
+                    "endOffset": 22486
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 22491,
+                    "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 22322
+                    "endOffset": 22616
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\src\\main\\res\\values\\styles.xml"
@@ -1632,12 +1706,12 @@
             },
             {
                 "to": {
-                    "startLine": 162,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 22327,
-                    "endLine": 168,
+                    "startOffset": 22621,
+                    "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 22799
+                    "endOffset": 23093
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1645,12 +1719,12 @@
             },
             {
                 "to": {
-                    "startLine": 169,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 22804,
-                    "endLine": 172,
+                    "startOffset": 23098,
+                    "endLine": 177,
                     "endColumn": 12,
-                    "endOffset": 23021
+                    "endOffset": 23315
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1658,25 +1732,12 @@
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 23026,
-                    "endLine": 176,
-                    "endColumn": 12,
-                    "endOffset": 23243
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 177,
-                    "startColumn": 4,
-                    "startOffset": 23248,
+                    "startOffset": 23320,
                     "endLine": 181,
                     "endColumn": 12,
-                    "endOffset": 23511
+                    "endOffset": 23537
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1686,10 +1747,10 @@
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 23516,
-                    "endLine": 185,
+                    "startOffset": 23542,
+                    "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 23738
+                    "endOffset": 23805
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1697,12 +1758,12 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 23743,
-                    "endLine": 189,
+                    "startOffset": 23810,
+                    "endLine": 190,
                     "endColumn": 12,
-                    "endOffset": 23968
+                    "endOffset": 24032
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1710,12 +1771,12 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 23973,
-                    "endLine": 193,
+                    "startOffset": 24037,
+                    "endLine": 194,
                     "endColumn": 12,
-                    "endOffset": 24198
+                    "endOffset": 24262
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1723,12 +1784,12 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 24203,
-                    "endLine": 197,
+                    "startOffset": 24267,
+                    "endLine": 198,
                     "endColumn": 12,
-                    "endOffset": 24428
+                    "endOffset": 24492
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1736,12 +1797,12 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 24433,
-                    "endLine": 201,
+                    "startOffset": 24497,
+                    "endLine": 202,
                     "endColumn": 12,
-                    "endOffset": 24658
+                    "endOffset": 24722
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1749,12 +1810,12 @@
             },
             {
                 "to": {
-                    "startLine": 202,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 24663,
-                    "endLine": 205,
+                    "startOffset": 24727,
+                    "endLine": 206,
                     "endColumn": 12,
-                    "endOffset": 24885
+                    "endOffset": 24952
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1762,12 +1823,12 @@
             },
             {
                 "to": {
-                    "startLine": 206,
+                    "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 24890,
-                    "endLine": 209,
+                    "startOffset": 24957,
+                    "endLine": 210,
                     "endColumn": 12,
-                    "endOffset": 25124
+                    "endOffset": 25179
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1775,12 +1836,12 @@
             },
             {
                 "to": {
-                    "startLine": 210,
+                    "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 25129,
-                    "endLine": 213,
+                    "startOffset": 25184,
+                    "endLine": 214,
                     "endColumn": 12,
-                    "endOffset": 25350
+                    "endOffset": 25418
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1788,24 +1849,12 @@
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 25355,
-                    "endLine": 217,
+                    "startOffset": 25423,
+                    "endLine": 218,
                     "endColumn": 12,
-                    "endOffset": 25595
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 218,
-                    "startColumn": 4,
-                    "startOffset": 25600,
-                    "endColumn": 117,
-                    "endOffset": 25713
+                    "endOffset": 25644
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1815,9 +1864,10 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 25718,
-                    "endColumn": 117,
-                    "endOffset": 25831
+                    "startOffset": 25649,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 25889
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1825,12 +1875,11 @@
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 25836,
-                    "endLine": 223,
-                    "endColumn": 12,
-                    "endOffset": 26061
+                    "startOffset": 25894,
+                    "endColumn": 117,
+                    "endOffset": 26007
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1840,10 +1889,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 26066,
-                    "endLine": 227,
-                    "endColumn": 12,
-                    "endOffset": 26309
+                    "startOffset": 26012,
+                    "endColumn": 117,
+                    "endOffset": 26125
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1851,12 +1899,12 @@
             },
             {
                 "to": {
-                    "startLine": 228,
+                    "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 26314,
-                    "endLine": 231,
+                    "startOffset": 26130,
+                    "endLine": 228,
                     "endColumn": 12,
-                    "endOffset": 26528
+                    "endOffset": 26355
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1864,12 +1912,25 @@
             },
             {
                 "to": {
-                    "startLine": 232,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 26533,
+                    "startOffset": 26360,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 26603
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 26608,
                     "endLine": 236,
                     "endColumn": 12,
-                    "endOffset": 26811
+                    "endOffset": 26822
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1879,10 +1940,10 @@
                 "to": {
                     "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 26816,
-                    "endLine": 240,
+                    "startOffset": 26827,
+                    "endLine": 241,
                     "endColumn": 12,
-                    "endOffset": 27019
+                    "endOffset": 27105
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1890,12 +1951,12 @@
             },
             {
                 "to": {
-                    "startLine": 241,
+                    "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 27024,
-                    "endLine": 243,
+                    "startOffset": 27110,
+                    "endLine": 245,
                     "endColumn": 12,
-                    "endOffset": 27150
+                    "endOffset": 27313
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1903,12 +1964,12 @@
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 27155,
-                    "endLine": 247,
+                    "startOffset": 27318,
+                    "endLine": 248,
                     "endColumn": 12,
-                    "endOffset": 27377
+                    "endOffset": 27444
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1916,12 +1977,12 @@
             },
             {
                 "to": {
-                    "startLine": 248,
+                    "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 27382,
-                    "endLine": 251,
+                    "startOffset": 27449,
+                    "endLine": 252,
                     "endColumn": 12,
-                    "endOffset": 27623
+                    "endOffset": 27671
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1929,12 +1990,12 @@
             },
             {
                 "to": {
-                    "startLine": 252,
+                    "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 27628,
-                    "endLine": 255,
+                    "startOffset": 27676,
+                    "endLine": 256,
                     "endColumn": 12,
-                    "endOffset": 27848
+                    "endOffset": 27917
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1942,12 +2003,12 @@
             },
             {
                 "to": {
-                    "startLine": 256,
+                    "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 27853,
-                    "endLine": 259,
+                    "startOffset": 27922,
+                    "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 28097
+                    "endOffset": 28142
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1955,12 +2016,12 @@
             },
             {
                 "to": {
-                    "startLine": 260,
+                    "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 28102,
-                    "endLine": 263,
+                    "startOffset": 28147,
+                    "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 28318
+                    "endOffset": 28391
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1968,12 +2029,12 @@
             },
             {
                 "to": {
-                    "startLine": 264,
+                    "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 28323,
-                    "endLine": 267,
+                    "startOffset": 28396,
+                    "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 28563
+                    "endOffset": 28612
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1981,12 +2042,12 @@
             },
             {
                 "to": {
-                    "startLine": 268,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 28568,
+                    "startOffset": 28617,
                     "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 28858
+                    "endOffset": 28857
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -1996,10 +2057,10 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 28863,
-                    "endLine": 275,
+                    "startOffset": 28862,
+                    "endLine": 277,
                     "endColumn": 12,
-                    "endOffset": 29080
+                    "endOffset": 29152
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2007,12 +2068,12 @@
             },
             {
                 "to": {
-                    "startLine": 276,
+                    "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 29085,
-                    "endLine": 278,
+                    "startOffset": 29157,
+                    "endLine": 280,
                     "endColumn": 12,
-                    "endOffset": 29318
+                    "endOffset": 29374
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2020,12 +2081,12 @@
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 29323,
-                    "endLine": 281,
+                    "startOffset": 29379,
+                    "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 29532
+                    "endOffset": 29612
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2033,12 +2094,12 @@
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 29537,
-                    "endLine": 284,
+                    "startOffset": 29617,
+                    "endLine": 286,
                     "endColumn": 12,
-                    "endOffset": 29762
+                    "endOffset": 29826
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2046,12 +2107,12 @@
             },
             {
                 "to": {
-                    "startLine": 285,
+                    "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 29767,
-                    "endLine": 287,
+                    "startOffset": 29831,
+                    "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 29985
+                    "endOffset": 30056
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2059,12 +2120,12 @@
             },
             {
                 "to": {
-                    "startLine": 288,
+                    "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 29990,
-                    "endLine": 290,
+                    "startOffset": 30061,
+                    "endLine": 292,
                     "endColumn": 12,
-                    "endOffset": 30200
+                    "endOffset": 30279
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2072,36 +2133,12 @@
             },
             {
                 "to": {
-                    "startLine": 291,
+                    "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 30205,
-                    "endLine": 293,
+                    "startOffset": 30284,
+                    "endLine": 295,
                     "endColumn": 12,
-                    "endOffset": 30408
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 294,
-                    "startColumn": 4,
-                    "startOffset": 30413,
-                    "endColumn": 111,
-                    "endOffset": 30520
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 295,
-                    "startColumn": 4,
-                    "startOffset": 30525,
-                    "endColumn": 111,
-                    "endOffset": 30632
+                    "endOffset": 30494
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2111,9 +2148,10 @@
                 "to": {
                     "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 30637,
-                    "endColumn": 104,
-                    "endOffset": 30737
+                    "startOffset": 30499,
+                    "endLine": 298,
+                    "endColumn": 12,
+                    "endOffset": 30702
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2121,12 +2159,11 @@
             },
             {
                 "to": {
-                    "startLine": 297,
+                    "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 30742,
-                    "endLine": 299,
-                    "endColumn": 12,
-                    "endOffset": 30951
+                    "startOffset": 30707,
+                    "endColumn": 111,
+                    "endOffset": 30814
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2136,9 +2173,9 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 30956,
-                    "endColumn": 133,
-                    "endOffset": 31085
+                    "startOffset": 30819,
+                    "endColumn": 111,
+                    "endOffset": 30926
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2148,9 +2185,9 @@
                 "to": {
                     "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 31090,
-                    "endColumn": 127,
-                    "endOffset": 31213
+                    "startOffset": 30931,
+                    "endColumn": 104,
+                    "endOffset": 31031
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2160,9 +2197,10 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 31218,
-                    "endColumn": 73,
-                    "endOffset": 31287
+                    "startOffset": 31036,
+                    "endLine": 304,
+                    "endColumn": 12,
+                    "endOffset": 31245
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2170,12 +2208,23 @@
             },
             {
                 "to": {
-                    "startLine": 303,
+                    "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 31292,
-                    "endLine": 306,
-                    "endColumn": 12,
-                    "endOffset": 31540
+                    "startOffset": 31250,
+                    "endColumn": 133,
+                    "endOffset": 31379
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 31384,
+                    "endColumn": 127,
+                    "endOffset": 31507
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2185,9 +2234,9 @@
                 "to": {
                     "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 31545,
-                    "endColumn": 87,
-                    "endOffset": 31628
+                    "startOffset": 31512,
+                    "endColumn": 73,
+                    "endOffset": 31581
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2197,10 +2246,10 @@
                 "to": {
                     "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 31633,
-                    "endLine": 313,
+                    "startOffset": 31586,
+                    "endLine": 311,
                     "endColumn": 12,
-                    "endOffset": 32030
+                    "endOffset": 31834
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2208,11 +2257,36 @@
             },
             {
                 "to": {
-                    "startLine": 314,
+                    "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 32035,
+                    "startOffset": 31839,
+                    "endColumn": 87,
+                    "endOffset": 31922
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 31927,
+                    "endLine": 318,
+                    "endColumn": 12,
+                    "endOffset": 32324
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 32329,
                     "endColumn": 81,
-                    "endOffset": 32112
+                    "endOffset": 32406
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2220,11 +2294,11 @@
             },
             {
                 "to": {
-                    "startLine": 315,
+                    "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 32117,
+                    "startOffset": 32411,
                     "endColumn": 85,
-                    "endOffset": 32198
+                    "endOffset": 32492
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2232,12 +2306,12 @@
             },
             {
                 "to": {
-                    "startLine": 316,
+                    "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 32203,
-                    "endLine": 325,
+                    "startOffset": 32497,
+                    "endLine": 330,
                     "endColumn": 12,
-                    "endOffset": 32814
+                    "endOffset": 33108
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2245,11 +2319,11 @@
             },
             {
                 "to": {
-                    "startLine": 326,
+                    "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 32819,
+                    "startOffset": 33113,
                     "endColumn": 90,
-                    "endOffset": 32905
+                    "endOffset": 33199
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2257,49 +2331,12 @@
             },
             {
                 "to": {
-                    "startLine": 327,
+                    "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 32910,
-                    "endLine": 332,
-                    "endColumn": 12,
-                    "endOffset": 33313
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 333,
-                    "startColumn": 4,
-                    "startOffset": 33318,
-                    "endColumn": 93,
-                    "endOffset": 33407
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 334,
-                    "startColumn": 4,
-                    "startOffset": 33412,
-                    "endColumn": 57,
-                    "endOffset": 33465
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 335,
-                    "startColumn": 4,
-                    "startOffset": 33470,
+                    "startOffset": 33204,
                     "endLine": 337,
                     "endColumn": 12,
-                    "endOffset": 33613
+                    "endOffset": 33607
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2309,10 +2346,9 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 33618,
-                    "endLine": 370,
-                    "endColumn": 12,
-                    "endOffset": 36106
+                    "startOffset": 33612,
+                    "endColumn": 93,
+                    "endOffset": 33701
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2320,12 +2356,11 @@
             },
             {
                 "to": {
-                    "startLine": 371,
+                    "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 36111,
-                    "endLine": 373,
-                    "endColumn": 12,
-                    "endOffset": 36259
+                    "startOffset": 33706,
+                    "endColumn": 57,
+                    "endOffset": 33759
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2333,12 +2368,12 @@
             },
             {
                 "to": {
-                    "startLine": 374,
+                    "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 36264,
-                    "endLine": 405,
+                    "startOffset": 33764,
+                    "endLine": 342,
                     "endColumn": 12,
-                    "endOffset": 38864
+                    "endOffset": 33907
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2346,12 +2381,12 @@
             },
             {
                 "to": {
-                    "startLine": 406,
+                    "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 38869,
-                    "endLine": 504,
+                    "startOffset": 33912,
+                    "endLine": 375,
                     "endColumn": 12,
-                    "endOffset": 45607
+                    "endOffset": 36400
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2359,12 +2394,12 @@
             },
             {
                 "to": {
-                    "startLine": 505,
+                    "startLine": 376,
                     "startColumn": 4,
-                    "startOffset": 45612,
-                    "endLine": 600,
+                    "startOffset": 36405,
+                    "endLine": 378,
                     "endColumn": 12,
-                    "endOffset": 52229
+                    "endOffset": 36553
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2372,12 +2407,12 @@
             },
             {
                 "to": {
-                    "startLine": 601,
+                    "startLine": 379,
                     "startColumn": 4,
-                    "startOffset": 52234,
-                    "endLine": 699,
+                    "startOffset": 36558,
+                    "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 59068
+                    "endOffset": 39158
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2385,12 +2420,12 @@
             },
             {
                 "to": {
-                    "startLine": 700,
+                    "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 59073,
-                    "endLine": 714,
+                    "startOffset": 39163,
+                    "endLine": 509,
                     "endColumn": 12,
-                    "endOffset": 60007
+                    "endOffset": 45901
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2398,12 +2433,38 @@
             },
             {
                 "to": {
-                    "startLine": 715,
+                    "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 60012,
+                    "startOffset": 45906,
+                    "endLine": 605,
+                    "endColumn": 12,
+                    "endOffset": 52523
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 52528,
+                    "endLine": 704,
+                    "endColumn": 12,
+                    "endOffset": 59362
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 705,
+                    "startColumn": 4,
+                    "startOffset": 59367,
                     "endLine": 719,
                     "endColumn": 12,
-                    "endOffset": 60263
+                    "endOffset": 60301
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2413,10 +2474,10 @@
                 "to": {
                     "startLine": 720,
                     "startColumn": 4,
-                    "startOffset": 60268,
+                    "startOffset": 60306,
                     "endLine": 724,
                     "endColumn": 12,
-                    "endOffset": 60499
+                    "endOffset": 60557
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2426,10 +2487,10 @@
                 "to": {
                     "startLine": 725,
                     "startColumn": 4,
-                    "startOffset": 60504,
-                    "endLine": 734,
+                    "startOffset": 60562,
+                    "endLine": 729,
                     "endColumn": 12,
-                    "endOffset": 61046
+                    "endOffset": 60793
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2437,12 +2498,12 @@
             },
             {
                 "to": {
-                    "startLine": 735,
+                    "startLine": 730,
                     "startColumn": 4,
-                    "startOffset": 61051,
-                    "endLine": 743,
+                    "startOffset": 60798,
+                    "endLine": 739,
                     "endColumn": 12,
-                    "endOffset": 61540
+                    "endOffset": 61340
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2450,12 +2511,12 @@
             },
             {
                 "to": {
-                    "startLine": 744,
+                    "startLine": 740,
                     "startColumn": 4,
-                    "startOffset": 61545,
-                    "endLine": 754,
+                    "startOffset": 61345,
+                    "endLine": 748,
                     "endColumn": 12,
-                    "endOffset": 62213
+                    "endOffset": 61834
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2463,12 +2524,12 @@
             },
             {
                 "to": {
-                    "startLine": 755,
+                    "startLine": 749,
                     "startColumn": 4,
-                    "startOffset": 62218,
-                    "endLine": 757,
+                    "startOffset": 61839,
+                    "endLine": 759,
                     "endColumn": 12,
-                    "endOffset": 62378
+                    "endOffset": 62507
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2476,12 +2537,12 @@
             },
             {
                 "to": {
-                    "startLine": 758,
+                    "startLine": 760,
                     "startColumn": 4,
-                    "startOffset": 62383,
-                    "endLine": 764,
+                    "startOffset": 62512,
+                    "endLine": 762,
                     "endColumn": 12,
-                    "endOffset": 62906
+                    "endOffset": 62672
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2489,12 +2550,12 @@
             },
             {
                 "to": {
-                    "startLine": 765,
+                    "startLine": 763,
                     "startColumn": 4,
-                    "startOffset": 62911,
-                    "endLine": 772,
+                    "startOffset": 62677,
+                    "endLine": 769,
                     "endColumn": 12,
-                    "endOffset": 63470
+                    "endOffset": 63200
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2502,12 +2563,12 @@
             },
             {
                 "to": {
-                    "startLine": 773,
+                    "startLine": 770,
                     "startColumn": 4,
-                    "startOffset": 63475,
-                    "endLine": 779,
+                    "startOffset": 63205,
+                    "endLine": 777,
                     "endColumn": 12,
-                    "endOffset": 63844
+                    "endOffset": 63764
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2515,12 +2576,12 @@
             },
             {
                 "to": {
-                    "startLine": 780,
+                    "startLine": 778,
                     "startColumn": 4,
-                    "startOffset": 63849,
+                    "startOffset": 63769,
                     "endLine": 784,
                     "endColumn": 12,
-                    "endOffset": 64214
+                    "endOffset": 64138
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2530,10 +2591,10 @@
                 "to": {
                     "startLine": 785,
                     "startColumn": 4,
-                    "startOffset": 64219,
-                    "endLine": 791,
+                    "startOffset": 64143,
+                    "endLine": 789,
                     "endColumn": 12,
-                    "endOffset": 64705
+                    "endOffset": 64508
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2541,12 +2602,12 @@
             },
             {
                 "to": {
-                    "startLine": 792,
+                    "startLine": 790,
                     "startColumn": 4,
-                    "startOffset": 64710,
-                    "endLine": 801,
+                    "startOffset": 64513,
+                    "endLine": 796,
                     "endColumn": 12,
-                    "endOffset": 65182
+                    "endOffset": 64999
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2554,12 +2615,12 @@
             },
             {
                 "to": {
-                    "startLine": 802,
+                    "startLine": 797,
                     "startColumn": 4,
-                    "startOffset": 65187,
-                    "endLine": 807,
+                    "startOffset": 65004,
+                    "endLine": 806,
                     "endColumn": 12,
-                    "endOffset": 65535
+                    "endOffset": 65476
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2567,12 +2628,12 @@
             },
             {
                 "to": {
-                    "startLine": 808,
+                    "startLine": 807,
                     "startColumn": 4,
-                    "startOffset": 65540,
+                    "startOffset": 65481,
                     "endLine": 812,
                     "endColumn": 12,
-                    "endOffset": 65862
+                    "endOffset": 65829
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2582,10 +2643,10 @@
                 "to": {
                     "startLine": 813,
                     "startColumn": 4,
-                    "startOffset": 65867,
-                    "endLine": 816,
+                    "startOffset": 65834,
+                    "endLine": 817,
                     "endColumn": 12,
-                    "endOffset": 66168
+                    "endOffset": 66156
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2593,12 +2654,12 @@
             },
             {
                 "to": {
-                    "startLine": 817,
+                    "startLine": 818,
                     "startColumn": 4,
-                    "startOffset": 66173,
+                    "startOffset": 66161,
                     "endLine": 821,
                     "endColumn": 12,
-                    "endOffset": 66430
+                    "endOffset": 66462
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2608,34 +2669,10 @@
                 "to": {
                     "startLine": 822,
                     "startColumn": 4,
-                    "startOffset": 66435,
-                    "endColumn": 112,
-                    "endOffset": 66543
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 823,
-                    "startColumn": 4,
-                    "startOffset": 66548,
-                    "endColumn": 114,
-                    "endOffset": 66658
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 824,
-                    "startColumn": 4,
-                    "startOffset": 66663,
+                    "startOffset": 66467,
                     "endLine": 826,
                     "endColumn": 12,
-                    "endOffset": 66897
+                    "endOffset": 66724
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2645,10 +2682,34 @@
                 "to": {
                     "startLine": 827,
                     "startColumn": 4,
-                    "startOffset": 66902,
-                    "endLine": 829,
+                    "startOffset": 66729,
+                    "endColumn": 112,
+                    "endOffset": 66837
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 828,
+                    "startColumn": 4,
+                    "startOffset": 66842,
+                    "endColumn": 114,
+                    "endOffset": 66952
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 829,
+                    "startColumn": 4,
+                    "startOffset": 66957,
+                    "endLine": 831,
                     "endColumn": 12,
-                    "endOffset": 67108
+                    "endOffset": 67191
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2656,12 +2717,12 @@
             },
             {
                 "to": {
-                    "startLine": 830,
+                    "startLine": 832,
                     "startColumn": 4,
-                    "startOffset": 67113,
-                    "endLine": 832,
+                    "startOffset": 67196,
+                    "endLine": 834,
                     "endColumn": 12,
-                    "endOffset": 67325
+                    "endOffset": 67402
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2669,12 +2730,12 @@
             },
             {
                 "to": {
-                    "startLine": 833,
+                    "startLine": 835,
                     "startColumn": 4,
-                    "startOffset": 67330,
-                    "endLine": 835,
+                    "startOffset": 67407,
+                    "endLine": 837,
                     "endColumn": 12,
-                    "endOffset": 67543
+                    "endOffset": 67619
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2682,24 +2743,12 @@
             },
             {
                 "to": {
-                    "startLine": 836,
+                    "startLine": 838,
                     "startColumn": 4,
-                    "startOffset": 67548,
-                    "endColumn": 106,
-                    "endOffset": 67650
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 837,
-                    "startColumn": 4,
-                    "startOffset": 67655,
+                    "startOffset": 67624,
                     "endLine": 840,
                     "endColumn": 12,
-                    "endOffset": 67843
+                    "endOffset": 67837
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2709,10 +2758,9 @@
                 "to": {
                     "startLine": 841,
                     "startColumn": 4,
-                    "startOffset": 67848,
-                    "endLine": 847,
-                    "endColumn": 12,
-                    "endOffset": 68298
+                    "startOffset": 67842,
+                    "endColumn": 106,
+                    "endOffset": 67944
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2720,12 +2768,12 @@
             },
             {
                 "to": {
-                    "startLine": 848,
+                    "startLine": 842,
                     "startColumn": 4,
-                    "startOffset": 68303,
-                    "endLine": 851,
+                    "startOffset": 67949,
+                    "endLine": 845,
                     "endColumn": 12,
-                    "endOffset": 68538
+                    "endOffset": 68137
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2733,12 +2781,12 @@
             },
             {
                 "to": {
-                    "startLine": 852,
+                    "startLine": 846,
                     "startColumn": 4,
-                    "startOffset": 68543,
-                    "endLine": 855,
+                    "startOffset": 68142,
+                    "endLine": 852,
                     "endColumn": 12,
-                    "endOffset": 68797
+                    "endOffset": 68592
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2746,11 +2794,12 @@
             },
             {
                 "to": {
-                    "startLine": 856,
+                    "startLine": 853,
                     "startColumn": 4,
-                    "startOffset": 68802,
-                    "endColumn": 100,
-                    "endOffset": 68898
+                    "startOffset": 68597,
+                    "endLine": 856,
+                    "endColumn": 12,
+                    "endOffset": 68832
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2760,10 +2809,10 @@
                 "to": {
                     "startLine": 857,
                     "startColumn": 4,
-                    "startOffset": 68903,
+                    "startOffset": 68837,
                     "endLine": 860,
                     "endColumn": 12,
-                    "endOffset": 69085
+                    "endOffset": 69091
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2773,9 +2822,9 @@
                 "to": {
                     "startLine": 861,
                     "startColumn": 4,
-                    "startOffset": 69090,
-                    "endColumn": 89,
-                    "endOffset": 69175
+                    "startOffset": 69096,
+                    "endColumn": 100,
+                    "endOffset": 69192
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2785,10 +2834,10 @@
                 "to": {
                     "startLine": 862,
                     "startColumn": 4,
-                    "startOffset": 69180,
-                    "endLine": 867,
+                    "startOffset": 69197,
+                    "endLine": 865,
                     "endColumn": 12,
-                    "endOffset": 69619
+                    "endOffset": 69379
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2796,11 +2845,36 @@
             },
             {
                 "to": {
-                    "startLine": 868,
+                    "startLine": 866,
                     "startColumn": 4,
-                    "startOffset": 69624,
+                    "startOffset": 69384,
+                    "endColumn": 89,
+                    "endOffset": 69469
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 867,
+                    "startColumn": 4,
+                    "startOffset": 69474,
+                    "endLine": 872,
+                    "endColumn": 12,
+                    "endOffset": 69913
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 873,
+                    "startColumn": 4,
+                    "startOffset": 69918,
                     "endColumn": 111,
-                    "endOffset": 69731
+                    "endOffset": 70025
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2808,25 +2882,12 @@
             },
             {
                 "to": {
-                    "startLine": 869,
+                    "startLine": 874,
                     "startColumn": 4,
-                    "startOffset": 69736,
-                    "endLine": 879,
-                    "endColumn": 12,
-                    "endOffset": 70536
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 880,
-                    "startColumn": 4,
-                    "startOffset": 70541,
+                    "startOffset": 70030,
                     "endLine": 884,
                     "endColumn": 12,
-                    "endOffset": 70866
+                    "endOffset": 70830
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2836,10 +2897,10 @@
                 "to": {
                     "startLine": 885,
                     "startColumn": 4,
-                    "startOffset": 70871,
-                    "endLine": 898,
+                    "startOffset": 70835,
+                    "endLine": 889,
                     "endColumn": 12,
-                    "endOffset": 71785
+                    "endOffset": 71160
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2847,12 +2908,12 @@
             },
             {
                 "to": {
-                    "startLine": 899,
+                    "startLine": 890,
                     "startColumn": 4,
-                    "startOffset": 71790,
-                    "endLine": 908,
+                    "startOffset": 71165,
+                    "endLine": 903,
                     "endColumn": 12,
-                    "endOffset": 72451
+                    "endOffset": 72079
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2860,12 +2921,12 @@
             },
             {
                 "to": {
-                    "startLine": 909,
+                    "startLine": 904,
                     "startColumn": 4,
-                    "startOffset": 72456,
+                    "startOffset": 72084,
                     "endLine": 913,
                     "endColumn": 12,
-                    "endOffset": 72736
+                    "endOffset": 72745
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2875,10 +2936,10 @@
                 "to": {
                     "startLine": 914,
                     "startColumn": 4,
-                    "startOffset": 72741,
-                    "endLine": 954,
+                    "startOffset": 72750,
+                    "endLine": 918,
                     "endColumn": 12,
-                    "endOffset": 75915
+                    "endOffset": 73030
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2886,12 +2947,12 @@
             },
             {
                 "to": {
-                    "startLine": 955,
+                    "startLine": 919,
                     "startColumn": 4,
-                    "startOffset": 75920,
-                    "endLine": 995,
+                    "startOffset": 73035,
+                    "endLine": 959,
                     "endColumn": 12,
-                    "endOffset": 79108
+                    "endOffset": 76209
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2899,12 +2960,12 @@
             },
             {
                 "to": {
-                    "startLine": 996,
+                    "startLine": 960,
                     "startColumn": 4,
-                    "startOffset": 79113,
-                    "endLine": 1037,
+                    "startOffset": 76214,
+                    "endLine": 1000,
                     "endColumn": 12,
-                    "endOffset": 82427
+                    "endOffset": 79402
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2912,24 +2973,12 @@
             },
             {
                 "to": {
-                    "startLine": 1038,
+                    "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 82432,
-                    "endColumn": 86,
-                    "endOffset": 82514
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1039,
-                    "startColumn": 4,
-                    "startOffset": 82519,
+                    "startOffset": 79407,
                     "endLine": 1042,
                     "endColumn": 12,
-                    "endOffset": 82743
+                    "endOffset": 82721
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2939,10 +2988,22 @@
                 "to": {
                     "startLine": 1043,
                     "startColumn": 4,
-                    "startOffset": 82748,
-                    "endLine": 1046,
+                    "startOffset": 82726,
+                    "endColumn": 86,
+                    "endOffset": 82808
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1044,
+                    "startColumn": 4,
+                    "startOffset": 82813,
+                    "endLine": 1047,
                     "endColumn": 12,
-                    "endOffset": 82992
+                    "endOffset": 83037
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2950,12 +3011,12 @@
             },
             {
                 "to": {
-                    "startLine": 1047,
+                    "startLine": 1048,
                     "startColumn": 4,
-                    "startOffset": 82997,
-                    "endLine": 1050,
+                    "startOffset": 83042,
+                    "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 83233
+                    "endOffset": 83286
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2963,12 +3024,12 @@
             },
             {
                 "to": {
-                    "startLine": 1051,
+                    "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 83238,
-                    "endLine": 1053,
+                    "startOffset": 83291,
+                    "endLine": 1055,
                     "endColumn": 12,
-                    "endOffset": 83385
+                    "endOffset": 83527
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2976,12 +3037,12 @@
             },
             {
                 "to": {
-                    "startLine": 1054,
+                    "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 83390,
-                    "endLine": 1056,
+                    "startOffset": 83532,
+                    "endLine": 1058,
                     "endColumn": 12,
-                    "endOffset": 83556
+                    "endOffset": 83679
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -2989,12 +3050,12 @@
             },
             {
                 "to": {
-                    "startLine": 1057,
+                    "startLine": 1059,
                     "startColumn": 4,
-                    "startOffset": 83561,
-                    "endLine": 1059,
+                    "startOffset": 83684,
+                    "endLine": 1061,
                     "endColumn": 12,
-                    "endOffset": 83723
+                    "endOffset": 83850
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3002,12 +3063,12 @@
             },
             {
                 "to": {
-                    "startLine": 1060,
+                    "startLine": 1062,
                     "startColumn": 4,
-                    "startOffset": 83728,
-                    "endLine": 1063,
+                    "startOffset": 83855,
+                    "endLine": 1064,
                     "endColumn": 12,
-                    "endOffset": 83966
+                    "endOffset": 84017
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3015,12 +3076,12 @@
             },
             {
                 "to": {
-                    "startLine": 1064,
+                    "startLine": 1065,
                     "startColumn": 4,
-                    "startOffset": 83971,
-                    "endLine": 1066,
+                    "startOffset": 84022,
+                    "endLine": 1068,
                     "endColumn": 12,
-                    "endOffset": 84136
+                    "endOffset": 84260
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3028,12 +3089,12 @@
             },
             {
                 "to": {
-                    "startLine": 1067,
+                    "startLine": 1069,
                     "startColumn": 4,
-                    "startOffset": 84141,
-                    "endLine": 1069,
+                    "startOffset": 84265,
+                    "endLine": 1071,
                     "endColumn": 12,
-                    "endOffset": 84309
+                    "endOffset": 84430
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3041,12 +3102,12 @@
             },
             {
                 "to": {
-                    "startLine": 1070,
+                    "startLine": 1072,
                     "startColumn": 4,
-                    "startOffset": 84314,
-                    "endLine": 1072,
+                    "startOffset": 84435,
+                    "endLine": 1074,
                     "endColumn": 12,
-                    "endOffset": 84480
+                    "endOffset": 84603
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3054,12 +3115,12 @@
             },
             {
                 "to": {
-                    "startLine": 1073,
+                    "startLine": 1075,
                     "startColumn": 4,
-                    "startOffset": 84485,
-                    "endLine": 1076,
+                    "startOffset": 84608,
+                    "endLine": 1077,
                     "endColumn": 12,
-                    "endOffset": 84754
+                    "endOffset": 84774
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3067,36 +3128,12 @@
             },
             {
                 "to": {
-                    "startLine": 1077,
+                    "startLine": 1078,
                     "startColumn": 4,
-                    "startOffset": 84759,
-                    "endLine": 1079,
+                    "startOffset": 84779,
+                    "endLine": 1081,
                     "endColumn": 12,
-                    "endOffset": 84953
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1080,
-                    "startColumn": 4,
-                    "startOffset": 84958,
-                    "endColumn": 83,
-                    "endOffset": 85037
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1081,
-                    "startColumn": 4,
-                    "startOffset": 85042,
-                    "endColumn": 95,
-                    "endOffset": 85133
+                    "endOffset": 85048
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3106,33 +3143,10 @@
                 "to": {
                     "startLine": 1082,
                     "startColumn": 4,
-                    "startOffset": 85138,
-                    "endColumn": 95,
-                    "endOffset": 85229
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1083,
-                    "startColumn": 4,
-                    "startOffset": 85234,
-                    "endColumn": 97,
-                    "endOffset": 85327
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1084,
-                    "startColumn": 4,
-                    "startOffset": 85332,
-                    "endColumn": 99,
-                    "endOffset": 85427
+                    "startOffset": 85053,
+                    "endLine": 1084,
+                    "endColumn": 12,
+                    "endOffset": 85247
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3142,9 +3156,9 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 85432,
-                    "endColumn": 101,
-                    "endOffset": 85529
+                    "startOffset": 85252,
+                    "endColumn": 83,
+                    "endOffset": 85331
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3154,9 +3168,9 @@
                 "to": {
                     "startLine": 1086,
                     "startColumn": 4,
-                    "startOffset": 85534,
-                    "endColumn": 101,
-                    "endOffset": 85631
+                    "startOffset": 85336,
+                    "endColumn": 95,
+                    "endOffset": 85427
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3166,9 +3180,9 @@
                 "to": {
                     "startLine": 1087,
                     "startColumn": 4,
-                    "startOffset": 85636,
-                    "endColumn": 101,
-                    "endOffset": 85733
+                    "startOffset": 85432,
+                    "endColumn": 95,
+                    "endOffset": 85523
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3178,9 +3192,9 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 85738,
-                    "endColumn": 101,
-                    "endOffset": 85835
+                    "startOffset": 85528,
+                    "endColumn": 97,
+                    "endOffset": 85621
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3190,9 +3204,9 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 85840,
-                    "endColumn": 101,
-                    "endOffset": 85937
+                    "startOffset": 85626,
+                    "endColumn": 99,
+                    "endOffset": 85721
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3202,9 +3216,9 @@
                 "to": {
                     "startLine": 1090,
                     "startColumn": 4,
-                    "startOffset": 85942,
-                    "endColumn": 99,
-                    "endOffset": 86037
+                    "startOffset": 85726,
+                    "endColumn": 101,
+                    "endOffset": 85823
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3214,9 +3228,9 @@
                 "to": {
                     "startLine": 1091,
                     "startColumn": 4,
-                    "startOffset": 86042,
-                    "endColumn": 95,
-                    "endOffset": 86133
+                    "startOffset": 85828,
+                    "endColumn": 101,
+                    "endOffset": 85925
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3226,9 +3240,9 @@
                 "to": {
                     "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 86138,
-                    "endColumn": 111,
-                    "endOffset": 86245
+                    "startOffset": 85930,
+                    "endColumn": 101,
+                    "endOffset": 86027
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3238,9 +3252,9 @@
                 "to": {
                     "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 86250,
-                    "endColumn": 128,
-                    "endOffset": 86374
+                    "startOffset": 86032,
+                    "endColumn": 101,
+                    "endOffset": 86129
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3250,9 +3264,9 @@
                 "to": {
                     "startLine": 1094,
                     "startColumn": 4,
-                    "startOffset": 86379,
-                    "endColumn": 122,
-                    "endOffset": 86497
+                    "startOffset": 86134,
+                    "endColumn": 101,
+                    "endOffset": 86231
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3262,9 +3276,9 @@
                 "to": {
                     "startLine": 1095,
                     "startColumn": 4,
-                    "startOffset": 86502,
-                    "endColumn": 141,
-                    "endOffset": 86639
+                    "startOffset": 86236,
+                    "endColumn": 99,
+                    "endOffset": 86331
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3274,9 +3288,9 @@
                 "to": {
                     "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 86644,
-                    "endColumn": 141,
-                    "endOffset": 86781
+                    "startOffset": 86336,
+                    "endColumn": 95,
+                    "endOffset": 86427
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3286,9 +3300,9 @@
                 "to": {
                     "startLine": 1097,
                     "startColumn": 4,
-                    "startOffset": 86786,
-                    "endColumn": 97,
-                    "endOffset": 86879
+                    "startOffset": 86432,
+                    "endColumn": 111,
+                    "endOffset": 86539
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3298,9 +3312,9 @@
                 "to": {
                     "startLine": 1098,
                     "startColumn": 4,
-                    "startOffset": 86884,
-                    "endColumn": 113,
-                    "endOffset": 86993
+                    "startOffset": 86544,
+                    "endColumn": 128,
+                    "endOffset": 86668
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3310,9 +3324,9 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 86998,
-                    "endColumn": 93,
-                    "endOffset": 87087
+                    "startOffset": 86673,
+                    "endColumn": 122,
+                    "endOffset": 86791
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3322,9 +3336,9 @@
                 "to": {
                     "startLine": 1100,
                     "startColumn": 4,
-                    "startOffset": 87092,
-                    "endColumn": 127,
-                    "endOffset": 87215
+                    "startOffset": 86796,
+                    "endColumn": 141,
+                    "endOffset": 86933
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3334,9 +3348,9 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 87220,
-                    "endColumn": 121,
-                    "endOffset": 87337
+                    "startOffset": 86938,
+                    "endColumn": 141,
+                    "endOffset": 87075
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3346,9 +3360,9 @@
                 "to": {
                     "startLine": 1102,
                     "startColumn": 4,
-                    "startOffset": 87342,
-                    "endColumn": 95,
-                    "endOffset": 87433
+                    "startOffset": 87080,
+                    "endColumn": 97,
+                    "endOffset": 87173
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3358,9 +3372,9 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 87438,
-                    "endColumn": 111,
-                    "endOffset": 87545
+                    "startOffset": 87178,
+                    "endColumn": 113,
+                    "endOffset": 87287
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3370,9 +3384,9 @@
                 "to": {
                     "startLine": 1104,
                     "startColumn": 4,
-                    "startOffset": 87550,
-                    "endColumn": 99,
-                    "endOffset": 87645
+                    "startOffset": 87292,
+                    "endColumn": 93,
+                    "endOffset": 87381
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3382,9 +3396,9 @@
                 "to": {
                     "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 87650,
-                    "endColumn": 115,
-                    "endOffset": 87761
+                    "startOffset": 87386,
+                    "endColumn": 127,
+                    "endOffset": 87509
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3394,9 +3408,9 @@
                 "to": {
                     "startLine": 1106,
                     "startColumn": 4,
-                    "startOffset": 87766,
-                    "endColumn": 95,
-                    "endOffset": 87857
+                    "startOffset": 87514,
+                    "endColumn": 121,
+                    "endOffset": 87631
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3406,9 +3420,9 @@
                 "to": {
                     "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 87862,
-                    "endColumn": 111,
-                    "endOffset": 87969
+                    "startOffset": 87636,
+                    "endColumn": 95,
+                    "endOffset": 87727
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3418,9 +3432,9 @@
                 "to": {
                     "startLine": 1108,
                     "startColumn": 4,
-                    "startOffset": 87974,
-                    "endColumn": 127,
-                    "endOffset": 88097
+                    "startOffset": 87732,
+                    "endColumn": 111,
+                    "endOffset": 87839
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3430,9 +3444,9 @@
                 "to": {
                     "startLine": 1109,
                     "startColumn": 4,
-                    "startOffset": 88102,
-                    "endColumn": 135,
-                    "endOffset": 88233
+                    "startOffset": 87844,
+                    "endColumn": 99,
+                    "endOffset": 87939
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3442,9 +3456,9 @@
                 "to": {
                     "startLine": 1110,
                     "startColumn": 4,
-                    "startOffset": 88238,
-                    "endColumn": 151,
-                    "endOffset": 88385
+                    "startOffset": 87944,
+                    "endColumn": 115,
+                    "endOffset": 88055
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3454,9 +3468,9 @@
                 "to": {
                     "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 88390,
-                    "endColumn": 129,
-                    "endOffset": 88515
+                    "startOffset": 88060,
+                    "endColumn": 95,
+                    "endOffset": 88151
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3466,9 +3480,9 @@
                 "to": {
                     "startLine": 1112,
                     "startColumn": 4,
-                    "startOffset": 88520,
-                    "endColumn": 145,
-                    "endOffset": 88661
+                    "startOffset": 88156,
+                    "endColumn": 111,
+                    "endOffset": 88263
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3478,9 +3492,9 @@
                 "to": {
                     "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 88666,
-                    "endColumn": 137,
-                    "endOffset": 88799
+                    "startOffset": 88268,
+                    "endColumn": 127,
+                    "endOffset": 88391
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3490,9 +3504,9 @@
                 "to": {
                     "startLine": 1114,
                     "startColumn": 4,
-                    "startOffset": 88804,
-                    "endColumn": 140,
-                    "endOffset": 88940
+                    "startOffset": 88396,
+                    "endColumn": 135,
+                    "endOffset": 88527
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3502,9 +3516,9 @@
                 "to": {
                     "startLine": 1115,
                     "startColumn": 4,
-                    "startOffset": 88945,
-                    "endColumn": 131,
-                    "endOffset": 89072
+                    "startOffset": 88532,
+                    "endColumn": 151,
+                    "endOffset": 88679
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3514,9 +3528,9 @@
                 "to": {
                     "startLine": 1116,
                     "startColumn": 4,
-                    "startOffset": 89077,
-                    "endColumn": 134,
-                    "endOffset": 89207
+                    "startOffset": 88684,
+                    "endColumn": 129,
+                    "endOffset": 88809
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3526,9 +3540,9 @@
                 "to": {
                     "startLine": 1117,
                     "startColumn": 4,
-                    "startOffset": 89212,
-                    "endColumn": 123,
-                    "endOffset": 89331
+                    "startOffset": 88814,
+                    "endColumn": 145,
+                    "endOffset": 88955
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3538,9 +3552,9 @@
                 "to": {
                     "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 89336,
-                    "endColumn": 129,
-                    "endOffset": 89461
+                    "startOffset": 88960,
+                    "endColumn": 137,
+                    "endOffset": 89093
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3550,9 +3564,9 @@
                 "to": {
                     "startLine": 1119,
                     "startColumn": 4,
-                    "startOffset": 89466,
-                    "endColumn": 129,
-                    "endOffset": 89591
+                    "startOffset": 89098,
+                    "endColumn": 140,
+                    "endOffset": 89234
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3562,9 +3576,9 @@
                 "to": {
                     "startLine": 1120,
                     "startColumn": 4,
-                    "startOffset": 89596,
-                    "endColumn": 111,
-                    "endOffset": 89703
+                    "startOffset": 89239,
+                    "endColumn": 131,
+                    "endOffset": 89366
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3574,9 +3588,9 @@
                 "to": {
                     "startLine": 1121,
                     "startColumn": 4,
-                    "startOffset": 89708,
-                    "endColumn": 133,
-                    "endOffset": 89837
+                    "startOffset": 89371,
+                    "endColumn": 134,
+                    "endOffset": 89501
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3586,9 +3600,9 @@
                 "to": {
                     "startLine": 1122,
                     "startColumn": 4,
-                    "startOffset": 89842,
-                    "endColumn": 131,
-                    "endOffset": 89969
+                    "startOffset": 89506,
+                    "endColumn": 123,
+                    "endOffset": 89625
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3598,9 +3612,9 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 89974,
-                    "endColumn": 125,
-                    "endOffset": 90095
+                    "startOffset": 89630,
+                    "endColumn": 129,
+                    "endOffset": 89755
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3610,9 +3624,9 @@
                 "to": {
                     "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 90100,
-                    "endColumn": 65,
-                    "endOffset": 90161
+                    "startOffset": 89760,
+                    "endColumn": 129,
+                    "endOffset": 89885
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3622,9 +3636,9 @@
                 "to": {
                     "startLine": 1125,
                     "startColumn": 4,
-                    "startOffset": 90166,
-                    "endColumn": 89,
-                    "endOffset": 90251
+                    "startOffset": 89890,
+                    "endColumn": 111,
+                    "endOffset": 89997
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3634,9 +3648,9 @@
                 "to": {
                     "startLine": 1126,
                     "startColumn": 4,
-                    "startOffset": 90256,
-                    "endColumn": 79,
-                    "endOffset": 90331
+                    "startOffset": 90002,
+                    "endColumn": 133,
+                    "endOffset": 90131
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3646,9 +3660,9 @@
                 "to": {
                     "startLine": 1127,
                     "startColumn": 4,
-                    "startOffset": 90336,
-                    "endColumn": 97,
-                    "endOffset": 90429
+                    "startOffset": 90136,
+                    "endColumn": 131,
+                    "endOffset": 90263
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3658,9 +3672,9 @@
                 "to": {
                     "startLine": 1128,
                     "startColumn": 4,
-                    "startOffset": 90434,
-                    "endColumn": 77,
-                    "endOffset": 90507
+                    "startOffset": 90268,
+                    "endColumn": 125,
+                    "endOffset": 90389
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3670,9 +3684,9 @@
                 "to": {
                     "startLine": 1129,
                     "startColumn": 4,
-                    "startOffset": 90512,
-                    "endColumn": 105,
-                    "endOffset": 90613
+                    "startOffset": 90394,
+                    "endColumn": 65,
+                    "endOffset": 90455
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3682,9 +3696,9 @@
                 "to": {
                     "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 90618,
-                    "endColumn": 91,
-                    "endOffset": 90705
+                    "startOffset": 90460,
+                    "endColumn": 89,
+                    "endOffset": 90545
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3694,9 +3708,9 @@
                 "to": {
                     "startLine": 1131,
                     "startColumn": 4,
-                    "startOffset": 90710,
-                    "endColumn": 109,
-                    "endOffset": 90815
+                    "startOffset": 90550,
+                    "endColumn": 79,
+                    "endOffset": 90625
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3706,10 +3720,45 @@
                 "to": {
                     "startLine": 1132,
                     "startColumn": 4,
-                    "startOffset": 90820,
-                    "endLine": 1135,
-                    "endColumn": 12,
-                    "endOffset": 90986
+                    "startOffset": 90630,
+                    "endColumn": 97,
+                    "endOffset": 90723
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1133,
+                    "startColumn": 4,
+                    "startOffset": 90728,
+                    "endColumn": 77,
+                    "endOffset": 90801
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1134,
+                    "startColumn": 4,
+                    "startOffset": 90806,
+                    "endColumn": 105,
+                    "endOffset": 90907
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1135,
+                    "startColumn": 4,
+                    "startOffset": 90912,
+                    "endColumn": 91,
+                    "endOffset": 90999
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3719,10 +3768,9 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 90991,
-                    "endLine": 1139,
-                    "endColumn": 12,
-                    "endOffset": 91151
+                    "startOffset": 91004,
+                    "endColumn": 109,
+                    "endOffset": 91109
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3730,11 +3778,12 @@
             },
             {
                 "to": {
-                    "startLine": 1140,
+                    "startLine": 1137,
                     "startColumn": 4,
-                    "startOffset": 91156,
-                    "endColumn": 79,
-                    "endOffset": 91231
+                    "startOffset": 91114,
+                    "endLine": 1140,
+                    "endColumn": 12,
+                    "endOffset": 91280
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3744,45 +3793,10 @@
                 "to": {
                     "startLine": 1141,
                     "startColumn": 4,
-                    "startOffset": 91236,
-                    "endColumn": 99,
-                    "endOffset": 91331
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1142,
-                    "startColumn": 4,
-                    "startOffset": 91336,
-                    "endColumn": 89,
-                    "endOffset": 91421
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1143,
-                    "startColumn": 4,
-                    "startOffset": 91426,
-                    "endColumn": 109,
-                    "endOffset": 91531
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1144,
-                    "startColumn": 4,
-                    "startOffset": 91536,
-                    "endColumn": 91,
-                    "endOffset": 91623
+                    "startOffset": 91285,
+                    "endLine": 1144,
+                    "endColumn": 12,
+                    "endOffset": 91445
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3792,9 +3806,9 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 91628,
-                    "endColumn": 87,
-                    "endOffset": 91711
+                    "startOffset": 91450,
+                    "endColumn": 79,
+                    "endOffset": 91525
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3804,9 +3818,9 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 91716,
+                    "startOffset": 91530,
                     "endColumn": 99,
-                    "endOffset": 91811
+                    "endOffset": 91625
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3816,9 +3830,9 @@
                 "to": {
                     "startLine": 1147,
                     "startColumn": 4,
-                    "startOffset": 91816,
-                    "endColumn": 101,
-                    "endOffset": 91913
+                    "startOffset": 91630,
+                    "endColumn": 89,
+                    "endOffset": 91715
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3828,9 +3842,9 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 91918,
-                    "endColumn": 103,
-                    "endOffset": 92017
+                    "startOffset": 91720,
+                    "endColumn": 109,
+                    "endOffset": 91825
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3840,9 +3854,9 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 92022,
-                    "endColumn": 103,
-                    "endOffset": 92121
+                    "startOffset": 91830,
+                    "endColumn": 91,
+                    "endOffset": 91917
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3852,9 +3866,9 @@
                 "to": {
                     "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 92126,
-                    "endColumn": 93,
-                    "endOffset": 92215
+                    "startOffset": 91922,
+                    "endColumn": 87,
+                    "endOffset": 92005
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3864,9 +3878,9 @@
                 "to": {
                     "startLine": 1151,
                     "startColumn": 4,
-                    "startOffset": 92220,
-                    "endColumn": 119,
-                    "endOffset": 92335
+                    "startOffset": 92010,
+                    "endColumn": 99,
+                    "endOffset": 92105
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3876,9 +3890,9 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 92340,
-                    "endColumn": 117,
-                    "endOffset": 92453
+                    "startOffset": 92110,
+                    "endColumn": 101,
+                    "endOffset": 92207
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3888,9 +3902,9 @@
                 "to": {
                     "startLine": 1153,
                     "startColumn": 4,
-                    "startOffset": 92458,
-                    "endColumn": 89,
-                    "endOffset": 92543
+                    "startOffset": 92212,
+                    "endColumn": 103,
+                    "endOffset": 92311
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3900,9 +3914,9 @@
                 "to": {
                     "startLine": 1154,
                     "startColumn": 4,
-                    "startOffset": 92548,
-                    "endColumn": 107,
-                    "endOffset": 92651
+                    "startOffset": 92316,
+                    "endColumn": 103,
+                    "endOffset": 92415
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3912,9 +3926,9 @@
                 "to": {
                     "startLine": 1155,
                     "startColumn": 4,
-                    "startOffset": 92656,
-                    "endColumn": 109,
-                    "endOffset": 92761
+                    "startOffset": 92420,
+                    "endColumn": 93,
+                    "endOffset": 92509
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3924,9 +3938,9 @@
                 "to": {
                     "startLine": 1156,
                     "startColumn": 4,
-                    "startOffset": 92766,
-                    "endColumn": 111,
-                    "endOffset": 92873
+                    "startOffset": 92514,
+                    "endColumn": 119,
+                    "endOffset": 92629
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3936,10 +3950,33 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 92878,
-                    "endLine": 1159,
-                    "endColumn": 12,
-                    "endOffset": 93048
+                    "startOffset": 92634,
+                    "endColumn": 117,
+                    "endOffset": 92747
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1158,
+                    "startColumn": 4,
+                    "startOffset": 92752,
+                    "endColumn": 89,
+                    "endOffset": 92837
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1159,
+                    "startColumn": 4,
+                    "startOffset": 92842,
+                    "endColumn": 107,
+                    "endOffset": 92945
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3949,9 +3986,9 @@
                 "to": {
                     "startLine": 1160,
                     "startColumn": 4,
-                    "startOffset": 93053,
-                    "endColumn": 115,
-                    "endOffset": 93164
+                    "startOffset": 92950,
+                    "endColumn": 109,
+                    "endOffset": 93055
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3961,9 +3998,9 @@
                 "to": {
                     "startLine": 1161,
                     "startColumn": 4,
-                    "startOffset": 93169,
-                    "endColumn": 85,
-                    "endOffset": 93250
+                    "startOffset": 93060,
+                    "endColumn": 111,
+                    "endOffset": 93167
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -3973,33 +4010,10 @@
                 "to": {
                     "startLine": 1162,
                     "startColumn": 4,
-                    "startOffset": 93255,
-                    "endColumn": 99,
-                    "endOffset": 93350
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1163,
-                    "startColumn": 4,
-                    "startOffset": 93355,
-                    "endColumn": 111,
-                    "endOffset": 93462
-                },
-                "from": {
-                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1164,
-                    "startColumn": 4,
-                    "startOffset": 93467,
-                    "endColumn": 66,
-                    "endOffset": 93529
+                    "startOffset": 93172,
+                    "endLine": 1164,
+                    "endColumn": 12,
+                    "endOffset": 93342
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4009,9 +4023,9 @@
                 "to": {
                     "startLine": 1165,
                     "startColumn": 4,
-                    "startOffset": 93534,
-                    "endColumn": 113,
-                    "endOffset": 93643
+                    "startOffset": 93347,
+                    "endColumn": 115,
+                    "endOffset": 93458
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4021,9 +4035,9 @@
                 "to": {
                     "startLine": 1166,
                     "startColumn": 4,
-                    "startOffset": 93648,
-                    "endColumn": 67,
-                    "endOffset": 93711
+                    "startOffset": 93463,
+                    "endColumn": 85,
+                    "endOffset": 93544
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4033,9 +4047,9 @@
                 "to": {
                     "startLine": 1167,
                     "startColumn": 4,
-                    "startOffset": 93716,
-                    "endColumn": 115,
-                    "endOffset": 93827
+                    "startOffset": 93549,
+                    "endColumn": 99,
+                    "endOffset": 93644
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4045,9 +4059,9 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 93832,
-                    "endColumn": 131,
-                    "endOffset": 93959
+                    "startOffset": 93649,
+                    "endColumn": 111,
+                    "endOffset": 93756
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4057,9 +4071,9 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 93964,
-                    "endColumn": 115,
-                    "endOffset": 94075
+                    "startOffset": 93761,
+                    "endColumn": 66,
+                    "endOffset": 93823
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4069,9 +4083,9 @@
                 "to": {
                     "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 94080,
-                    "endColumn": 68,
-                    "endOffset": 94144
+                    "startOffset": 93828,
+                    "endColumn": 113,
+                    "endOffset": 93937
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4081,9 +4095,9 @@
                 "to": {
                     "startLine": 1171,
                     "startColumn": 4,
-                    "startOffset": 94149,
-                    "endColumn": 94,
-                    "endOffset": 94239
+                    "startOffset": 93942,
+                    "endColumn": 67,
+                    "endOffset": 94005
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4093,9 +4107,9 @@
                 "to": {
                     "startLine": 1172,
                     "startColumn": 4,
-                    "startOffset": 94244,
-                    "endColumn": 114,
-                    "endOffset": 94354
+                    "startOffset": 94010,
+                    "endColumn": 115,
+                    "endOffset": 94121
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4105,9 +4119,9 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 94359,
-                    "endColumn": 112,
-                    "endOffset": 94467
+                    "startOffset": 94126,
+                    "endColumn": 131,
+                    "endOffset": 94253
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4117,9 +4131,9 @@
                 "to": {
                     "startLine": 1174,
                     "startColumn": 4,
-                    "startOffset": 94472,
-                    "endColumn": 98,
-                    "endOffset": 94566
+                    "startOffset": 94258,
+                    "endColumn": 115,
+                    "endOffset": 94369
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4129,9 +4143,9 @@
                 "to": {
                     "startLine": 1175,
                     "startColumn": 4,
-                    "startOffset": 94571,
-                    "endColumn": 119,
-                    "endOffset": 94686
+                    "startOffset": 94374,
+                    "endColumn": 68,
+                    "endOffset": 94438
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4141,9 +4155,9 @@
                 "to": {
                     "startLine": 1176,
                     "startColumn": 4,
-                    "startOffset": 94691,
-                    "endColumn": 121,
-                    "endOffset": 94808
+                    "startOffset": 94443,
+                    "endColumn": 94,
+                    "endOffset": 94533
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4153,9 +4167,9 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 94813,
-                    "endColumn": 110,
-                    "endOffset": 94919
+                    "startOffset": 94538,
+                    "endColumn": 114,
+                    "endOffset": 94648
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4165,9 +4179,9 @@
                 "to": {
                     "startLine": 1178,
                     "startColumn": 4,
-                    "startOffset": 94924,
-                    "endColumn": 100,
-                    "endOffset": 95020
+                    "startOffset": 94653,
+                    "endColumn": 112,
+                    "endOffset": 94761
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4177,9 +4191,9 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 95025,
-                    "endColumn": 104,
-                    "endOffset": 95125
+                    "startOffset": 94766,
+                    "endColumn": 98,
+                    "endOffset": 94860
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4189,9 +4203,9 @@
                 "to": {
                     "startLine": 1180,
                     "startColumn": 4,
-                    "startOffset": 95130,
-                    "endColumn": 99,
-                    "endOffset": 95225
+                    "startOffset": 94865,
+                    "endColumn": 119,
+                    "endOffset": 94980
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4201,9 +4215,9 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 95230,
-                    "endColumn": 117,
-                    "endOffset": 95343
+                    "startOffset": 94985,
+                    "endColumn": 121,
+                    "endOffset": 95102
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4213,9 +4227,9 @@
                 "to": {
                     "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 95348,
-                    "endColumn": 90,
-                    "endOffset": 95434
+                    "startOffset": 95107,
+                    "endColumn": 110,
+                    "endOffset": 95213
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4225,9 +4239,9 @@
                 "to": {
                     "startLine": 1183,
                     "startColumn": 4,
-                    "startOffset": 95439,
-                    "endColumn": 122,
-                    "endOffset": 95557
+                    "startOffset": 95218,
+                    "endColumn": 100,
+                    "endOffset": 95314
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4237,9 +4251,9 @@
                 "to": {
                     "startLine": 1184,
                     "startColumn": 4,
-                    "startOffset": 95562,
-                    "endColumn": 99,
-                    "endOffset": 95657
+                    "startOffset": 95319,
+                    "endColumn": 104,
+                    "endOffset": 95419
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4249,9 +4263,9 @@
                 "to": {
                     "startLine": 1185,
                     "startColumn": 4,
-                    "startOffset": 95662,
-                    "endColumn": 103,
-                    "endOffset": 95761
+                    "startOffset": 95424,
+                    "endColumn": 99,
+                    "endOffset": 95519
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4261,9 +4275,9 @@
                 "to": {
                     "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 95766,
-                    "endColumn": 95,
-                    "endOffset": 95857
+                    "startOffset": 95524,
+                    "endColumn": 117,
+                    "endOffset": 95637
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4273,9 +4287,9 @@
                 "to": {
                     "startLine": 1187,
                     "startColumn": 4,
-                    "startOffset": 95862,
-                    "endColumn": 87,
-                    "endOffset": 95945
+                    "startOffset": 95642,
+                    "endColumn": 90,
+                    "endOffset": 95728
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4285,9 +4299,9 @@
                 "to": {
                     "startLine": 1188,
                     "startColumn": 4,
-                    "startOffset": 95950,
-                    "endColumn": 105,
-                    "endOffset": 96051
+                    "startOffset": 95733,
+                    "endColumn": 122,
+                    "endOffset": 95851
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4297,9 +4311,9 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 96056,
-                    "endColumn": 91,
-                    "endOffset": 96143
+                    "startOffset": 95856,
+                    "endColumn": 99,
+                    "endOffset": 95951
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4309,9 +4323,9 @@
                 "to": {
                     "startLine": 1190,
                     "startColumn": 4,
-                    "startOffset": 96148,
-                    "endColumn": 91,
-                    "endOffset": 96235
+                    "startOffset": 95956,
+                    "endColumn": 103,
+                    "endOffset": 96055
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4321,9 +4335,9 @@
                 "to": {
                     "startLine": 1191,
                     "startColumn": 4,
-                    "startOffset": 96240,
-                    "endColumn": 113,
-                    "endOffset": 96349
+                    "startOffset": 96060,
+                    "endColumn": 95,
+                    "endOffset": 96151
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4333,9 +4347,9 @@
                 "to": {
                     "startLine": 1192,
                     "startColumn": 4,
-                    "startOffset": 96354,
-                    "endColumn": 89,
-                    "endOffset": 96439
+                    "startOffset": 96156,
+                    "endColumn": 87,
+                    "endOffset": 96239
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4345,9 +4359,9 @@
                 "to": {
                     "startLine": 1193,
                     "startColumn": 4,
-                    "startOffset": 96444,
-                    "endColumn": 83,
-                    "endOffset": 96523
+                    "startOffset": 96244,
+                    "endColumn": 105,
+                    "endOffset": 96345
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4357,9 +4371,9 @@
                 "to": {
                     "startLine": 1194,
                     "startColumn": 4,
-                    "startOffset": 96528,
-                    "endColumn": 53,
-                    "endOffset": 96577
+                    "startOffset": 96350,
+                    "endColumn": 91,
+                    "endOffset": 96437
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4369,9 +4383,9 @@
                 "to": {
                     "startLine": 1195,
                     "startColumn": 4,
-                    "startOffset": 96582,
-                    "endColumn": 121,
-                    "endOffset": 96699
+                    "startOffset": 96442,
+                    "endColumn": 91,
+                    "endOffset": 96529
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4381,9 +4395,9 @@
                 "to": {
                     "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 96704,
-                    "endColumn": 83,
-                    "endOffset": 96783
+                    "startOffset": 96534,
+                    "endColumn": 113,
+                    "endOffset": 96643
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
@@ -4393,9 +4407,69 @@
                 "to": {
                     "startLine": 1197,
                     "startColumn": 4,
-                    "startOffset": 96788,
+                    "startOffset": 96648,
+                    "endColumn": 89,
+                    "endOffset": 96733
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1198,
+                    "startColumn": 4,
+                    "startOffset": 96738,
+                    "endColumn": 83,
+                    "endOffset": 96817
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1199,
+                    "startColumn": 4,
+                    "startOffset": 96822,
+                    "endColumn": 53,
+                    "endOffset": 96871
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1200,
+                    "startColumn": 4,
+                    "startOffset": 96876,
+                    "endColumn": 121,
+                    "endOffset": 96993
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1201,
+                    "startColumn": 4,
+                    "startOffset": 96998,
+                    "endColumn": 83,
+                    "endOffset": 97077
+                },
+                "from": {
+                    "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1202,
+                    "startColumn": 4,
+                    "startOffset": 97082,
                     "endColumn": 119,
-                    "endOffset": 96903
+                    "endOffset": 97197
                 },
                 "from": {
                     "file": "B:\\Google Drive\\Senior Project\\project\\android_project\\Sunshine-Version-2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\values\\values.xml"

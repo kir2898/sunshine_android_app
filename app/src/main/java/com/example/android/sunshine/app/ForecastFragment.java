@@ -1,6 +1,7 @@
 package com.example.android.sunshine.app;
 
 import android.content.Context;
+import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -13,8 +14,10 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -25,6 +28,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
+import java.net.URI;
 import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -35,6 +39,7 @@ import java.util.Arrays;
  */
 public class ForecastFragment extends Fragment {
 
+    private static final String LOG_TAG = "forecast_fragment";
     //global variables
     ArrayAdapter<String> forecastAdapter;
 
@@ -61,8 +66,13 @@ public class ForecastFragment extends Fragment {
         int id = item.getItemId();
         if(id == R.id.action_refresh){
             FetchWeatherTask weatherTask = new FetchWeatherTask();     //get that weather
-            weatherTask.execute("15417");       //request the weather at zip: 15417
+            weatherTask.execute(getResources().getString(R.string.pref_location_key));       //request the weather at zip: 15417
             return true;
+        }else if(id==R.id.action_settings){
+            //the settings button in the menu was clicked so let's change over with the intent class
+            Intent intent = new Intent(getActivity(), SettingsActivity.class);
+            Log.e(LOG_TAG, "The settings button was clicked");
+            startActivity(intent);
         }
         return super.onOptionsItemSelected(item);
     }
@@ -70,7 +80,7 @@ public class ForecastFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_main, container, false);
+        final View rootView = inflater.inflate(R.layout.fragment_main, container, false);
         String[] forecastArray = {
                 "Today - Sunny - 88/64",
                 "Tomorrow - Foggy - 70/40",
@@ -91,6 +101,24 @@ public class ForecastFragment extends Fragment {
         //we must create the view so we can search for ids in the fragment_main.xml file
         ListView v = (ListView) rootView.findViewById(R.id.listview_forecast);
         v.setAdapter(forecastAdapter);
+        //add the click listener for the forecast fragment
+        v.setOnItemClickListener(new AdapterView.OnItemClickListener(){
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int position, long l){
+                //start the DetailActivity by using Intents
+                String intentText = forecastAdapter.getItem(position);
+                Intent detailIntent = new Intent(getActivity(), DetailActivity.class).putExtra(
+                        Intent.EXTRA_TEXT, intentText);
+                startActivity(detailIntent);
+
+                //code is commented out because it is replaced by the start of the activity DetailActivity
+                /*Context context = getActivity().getApplicationContext();
+                String toastText = forecastAdapter.getItem(position);
+                int duration = Toast.LENGTH_SHORT;
+                Toast toast = Toast.makeText(context,toastText,duration);
+                toast.show();*/
+            }
+        });     //end declaration for setOnItemClickListener
         return rootView;
     }
 
@@ -117,7 +145,7 @@ public class ForecastFragment extends Fragment {
             // Will contain the raw JSON response as a string.
             String forecastJsonStr = null;
             String format = "json";     //used for the json response from the weather api call
-            String units = "imperial";    //used for the measurement request in the weather api call
+            String units = "metric";    //used for the measurement request in the weather api call
             int numDays = 7;            //used for day request in the weather api call
             String[] parseResult = null;    //used for parsing the string and returning it
 
